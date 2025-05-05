@@ -13,9 +13,9 @@ The reference material
 The first project (2025.5.2)
 --------------------------
 1. Practise the **Q learning** and **Sarsa** on Cliffwalking env.   
-2. Compare the difference of this algorithms.
+2. Compare the difference of these algorithms.
 ### Here is a finding WOW
 When you run the code of **Sarsa** (under the condition of **epsilon = 0.1** and decreasing slowly) , you will find that it cannot converge to -13 (the best reward) as well as **Q learning** after enough training times. However, when epsilon decreases in a faster speed, **Sarsa** can work as well as **Q learning**  
-### Here are so thought
+### Here are some thoughts
 1. Is the training times too low (20000 times) for **Sarsa**.
 2. Epsilon is not set well so that the exploration time too long for **Sarsa** ? 
