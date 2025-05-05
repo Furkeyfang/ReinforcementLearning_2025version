@@ -5,7 +5,7 @@ From the **Q learning** to **DQN**, from **the finite action space** to **infini
 
 The reference material
 ------------------------
-1. To practise your big picture and fundamental [EasyRl 磨菇书](https:datawhalechina.github.io/easy-rl/#/).  
+1. To practise your big picture and fundamental [EasyRl 磨菇书](https://datawhalechina.github.io/easy-rl/#/chapter1/chapter1).  
 2. To practise your coding ability [动手学强化学习](https://hrl.boyuai.com/chapter/intro).  
 3. To have some visual courses [Deep RL Bootcame(from openai)](https://sites.google.com/view/deep-rl-bootcamp/lectures).
 4. To have more practical guide [OpenAI Spinning up](https://spinningup.openai.com/en/latest/index.html).
